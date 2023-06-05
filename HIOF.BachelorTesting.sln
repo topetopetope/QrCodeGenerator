@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIOF.BachelorTesting.QRCodeGenerateRead", "HIOF.BachelorTesting.QRCodeGenerateRead\HIOF.BachelorTesting.QRCodeGenerateRead.csproj", "{E0ABD8CD-704D-458D-AE4F-6FBAAFDF6ED2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HIOF.BachelorTesting.QRCodeService", "HIOF.BachelorTesting.QRCodeService\HIOF.BachelorTesting.QRCodeService.csproj", "{4CDF8213-D77E-4636-ABD8-60E6A27CBA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HIOF.BachelorTesting.QrCodeReceiver", "HIOF.BachelorTesting.QrCodeReceiver\HIOF.BachelorTesting.QrCodeReceiver.csproj", "{F1A79C0B-B869-431B-BFAE-EB8CAF527BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0ABD8CD-704D-458D-AE4F-6FBAAFDF6ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0ABD8CD-704D-458D-AE4F-6FBAAFDF6ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0ABD8CD-704D-458D-AE4F-6FBAAFDF6ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0ABD8CD-704D-458D-AE4F-6FBAAFDF6ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDF8213-D77E-4636-ABD8-60E6A27CBA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDF8213-D77E-4636-ABD8-60E6A27CBA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDF8213-D77E-4636-ABD8-60E6A27CBA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDF8213-D77E-4636-ABD8-60E6A27CBA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A79C0B-B869-431B-BFAE-EB8CAF527BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A79C0B-B869-431B-BFAE-EB8CAF527BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A79C0B-B869-431B-BFAE-EB8CAF527BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A79C0B-B869-431B-BFAE-EB8CAF527BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85F825F4-0941-402F-B879-65A41D368761}
+	EndGlobalSection
+EndGlobal
